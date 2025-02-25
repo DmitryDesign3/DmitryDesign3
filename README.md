@@ -36,15 +36,15 @@
 
 ## 📫 Связь
 <p align="left">
-  <a href="https://t.me/@DS_DESIGN1">
+  <a href="https://t.me/DS_DESIGN1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="dmitrydesign9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.behance.net/dmitrydesign001">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+</a>
 </p>
 
 🌟 **Спасибо за визит! Не забудьте ⭐️ мои репозитории, если они вам понравились!** 🌟
